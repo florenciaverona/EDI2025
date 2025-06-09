@@ -1,6 +1,6 @@
 #lista de tareas
-- [ ] estudiar
-- [ ] leer
-- [ ] caminar 
+- [x] estudiae
+- [x] leer
+- [ ] caminar
 - [ ] correr
 - [ ] cantar
